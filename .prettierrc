@@ -1,0 +1,12 @@
+{
+  "seTabs": false,
+  // tab缩进
+  "tabWidth": 2,
+  "printWidth": 80,
+  //使用单引号
+  "singleQuote": true,
+  //行尾逗号
+  "trailingComma": "none",
+  //使用分号默认true
+  "semi": false
+}
